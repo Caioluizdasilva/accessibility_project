@@ -1,27 +1,39 @@
-# A11yP1
+![Calmaria Spa](./assets/thumbnail.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
+# Calmaria Spa
 
-## Development server
+A Calmaria Spa é um empresa de bem estar e saúde. Nesse momento, temos o código inicial da sua landing page, onde vamos encontrar pontos de melhoria para tornar o projeto acessível a todas as pessoas usuárias.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<img src="./assets/screenshot.png" alt="Calmaria Spa" width="50%">
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🔨 Funcionalidades do projeto
 
-## Build
+Nesse primeiro momento, nós temos a página que foi idealizada como a primeira entrega do time de desenvolvimento.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Durante o curso, nós vamos analisar e refatorar o código do projeto. 
+O desafio é encontrar pontos de melhoria para tornar o projeto Calmaria Spa acessível para todas as pessoas usuárias. 
 
-## Running unit tests
+O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/1pDTUXo7ovT6zlE64Zw509/Calmaria-Spa--%7C-Forma%C3%A7%C3%A3o-Acessibilidade?type=design&node-id=98-1263&mode=design&t=iIe3hZrzPEvVEi0o-0).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## ✔️ Técnicas e tecnologias utilizadas
 
-## Running end-to-end tests
+Se liga nessa lista de tudo que usaremos nesse curso:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- `HTML`
+- `CSS`
+- `Acessibilidade Web`
+- `Figma`
 
-## Further help
+E muito mais!
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## 🛠️ Abrir e rodar o projeto
+
+Para abrir e rodar o projeto, utilize um editor de código de sua escolha.
+
+Depois, abra o projeto no seu navegador.
+
+## 📚 Mais informações do curso
+
+O Calmaria Spa é uma empresa fictícia utilizada nesse curso da Alura.
+A ideia principal desse curso é evoluir ainda mais os conhecimentos em Acessibilidade Web com foco em CSS. 
